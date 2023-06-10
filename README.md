@@ -5,8 +5,6 @@
   <a href="https://www.reactpwa.com" target="_blank"><img width="150px" src="https://github.com/Atyantik/react-pwa/blob/next/assets/reactpwa.svg?raw=true"></a>
 </p>
 <h1 align="center" style="text-align:center">ReactPWA - The simplest way to create PWAs with React</h1>
-
-
 A highly scalable, **Progressive Web Application *Framework*** with the best Developer Experience.
 This framework utilizes the power of React 18 with Suspense.
 
