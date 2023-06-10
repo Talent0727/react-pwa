@@ -20,6 +20,7 @@ git clone https://github.com/Atyantik/react-pwa-boilerplate.git my-pwa && cd my-
 ```bash
 npm install
 ```
+
   
 
 ##### 3. Run in development mode
