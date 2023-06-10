@@ -10,9 +10,6 @@
 A highly scalable, **Progressive Web Application *Framework*** with the best Developer Experience.
 This framework utilizes the power of React 18 with Suspense.
 
-
-
-
 ### Getting Started
 To install and get started with ReactPWA execute the following commands:
 
